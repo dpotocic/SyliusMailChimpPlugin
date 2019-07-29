@@ -7,9 +7,9 @@
 		"php": "^7.1",
 		"ext-ftp": "*",
 		"ext-simplexml": "*",
-		"sylius/sylius": "^1.2.5",
-		"symfony/symfony": "^4.1",
-		"symfony/framework-bundle": "^4.1",
+		"sylius/sylius": "1.5.2",
+		"symfony/symfony": "4.2.8",
+		"symfony/framework-bundle": "^4.2",
 		"drewm/mailchimp-api": "^2.5"
 	},
 	"require-dev": {
