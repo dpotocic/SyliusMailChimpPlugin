@@ -9,7 +9,7 @@
 		"ext-simplexml": "*",
 		"sylius/sylius": "^1.5",
 		"symfony/symfony": "4.2.8",
-		"symfony/framework-bundle": "^4.2",
+		"symfony/framework-bundle": "4.2.8",
 		"drewm/mailchimp-api": "^2.5"
 	},
 	"require-dev": {
